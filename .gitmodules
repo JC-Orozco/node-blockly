@@ -1,4 +1,4 @@
 [submodule "blockly"]
 	path = blockly
-	url = https://github.com/JC-Orozco/node-blockly.git#jcoa_click_image
+	url = https://github.com/JC-Orozco/blockly.git#jcoa_click_image
 
